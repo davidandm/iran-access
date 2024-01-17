@@ -17,6 +17,7 @@ installApps()
     echo -e ""
     echo -e ""
     echo -e "${RED}Note:${NC} This will make your server to be accessable only from Iranian IPs"
+    echo -e ""
     echo -e "Please select ${GREEN}'y'${NC} to continue."
     echo -e ""
 
