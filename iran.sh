@@ -54,8 +54,8 @@ startInstall()
             cd /etc/
             rm hosts.allow
             rm hosts.deny
-            wget 
-            wget 
+            wget https://raw.githubusercontent.com/davidandm/iran-access/main/iran/hosts.allow
+            wget https://raw.githubusercontent.com/davidandm/iran-access/main/iran/hosts.deny
             sleep 2s
 
             echo""
